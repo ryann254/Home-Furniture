@@ -60,7 +60,7 @@ main {
 }
 
 #landing-image {
-  background: url(/images/israa-hilles-1473525-unsplash.jpg);
+  background: url(/compressed_images/israa-hilles-1473525-unsplash.webp);
   background-position: center;
   height: 50vh;
   background-size: cover;
